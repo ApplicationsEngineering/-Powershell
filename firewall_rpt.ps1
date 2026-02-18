@@ -5,10 +5,10 @@
 # github:https://github.com/ApplicationsEngineering/-Powershell"                                                                                              #
 #                                                                                                                                                             #
 # PREREQUISITE_______________________________________________________________________________________________________________________________________________ #
-# Run the script from a Powershell Terminal with command: .\firewall_rpt.ps1
-# This script will produce a report of all enabled firewall rules on the local machine and save it to C:\temp\FirewallReport.txt
-# The report will include the following properties for each enabled firewall rule
-# Make sure you have created a directory of C:\temp if you already haven't done so. The report will be saved to: C:\temp\FirewallReport.txt
+# Run the script from a Powershell Terminal with command: .\firewall_rpt.ps1                                                                                  #                                  
+# This script will produce a report of all enabled firewall rules on the local machine and save it to C:\temp\FirewallReport.txt                              #
+# The report will include the following properties for each enabled firewall rule                                                                             # 
+# Make sure you have created a directory of C:\temp if you already haven't done so. The report will be saved to: C:\temp\FirewallReport.txt                   #
 ###############################################################################################################################################################
 
 Write-Progress "Welcome to the Simple Firewall Inventory Scanner 1.1"
