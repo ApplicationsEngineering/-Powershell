@@ -12,7 +12,9 @@ Testbench Labs
 
 Library........................
 
-1. firewall_rpt.ps1: Simple but effective local firewall report that provides an inventory of your the local firewall on your machine....The script takes only 2 mins to run and its effective on finding out what is blocked and what is not..
+1. wkspce_templ.ps1: A simple Template so if your new to Powershell, you dont have to start from Scratch, has a nice sandbox too with it....Never go it alone : )
+2.
+3. firewall_rpt.ps1: Simple but effective local firewall report that provides an inventory of your the local firewall on your machine....The script takes only 2 mins to run and its effective on finding out what is blocked and what is not..
 
 
                                                                                                                                                              
