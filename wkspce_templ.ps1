@@ -13,7 +13,19 @@
 
 
 $intellisense = "Isnt it Beautiful in VS Code, that there is no longer guess work no matter how much you train, make coding easier as my memory gets worse  : ) "
-Write-Host $intellisense
+Write-Host $intellisense -BackgroundColor DarkBlue -ForegroundColor White -FontSize 16 -Padding 10 -Text "This is a template for a PS script that can be used for various purposes. You can customize it as needed."
+Write-Host $intellisense -BackgroundColor DarkGreen -ForegroundColor White -FontSize 14 -Padding 5 -Text "This is a template for a PS script that can be used for various purposes. You can customize it as needed."
+Write-Host $intellisense -BackgroundColor DarkRed -ForegroundColor White -FontSize 12 -Padding 2 -Text "This is a template for a PS script that can be used for various purposes. You can customize it as needed."
+Write-Host $intellisense -BackgroundColor DarkYellow -ForegroundColor Black -FontSize 10 -Padding 1 -Text "This is a template for a PS script that can be used for various purposes. You can customize it as needed."
+Write-Host $intellisense -BackgroundColor DarkCyan -ForegroundColor White -FontSize 8 -Padding 0 -Text "This is a template for a PS script that can be used for various purposes. You can customize it as needed."
+Write-Host $intellisense -BackgroundColor DarkMagenta -ForegroundColor White -FontSize 6 -Padding 0 -Text "This is a template for a PS script that can be used for various purposes. You can customize it as needed."
+Write-Host $intellisense -BackgroundColor DarkGray -ForegroundColor White -FontSize 4 -Padding 0 -Text "This is a template for a PS script that can be used for various purposes. You can customize it as needed."
+Write-Host $intellisense -BackgroundColor Black -ForegroundColor White -FontSize 2 -Padding 0 -Text "This is a template for a PS script that can be used for various purposes. You can customize it as needed."
+Write-Host $intellisense -BackgroundColor White -ForegroundColor Black -FontSize 1 -Padding 0 -Text "This is a template for a PS script that can be used for various purposes. You can customize it as needed."
+
+
+
+
 
 
 
